@@ -1,0 +1,19 @@
+{
+    "name": "denb/intro-in-laravel",
+    "description": "Домашнее задание по Composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Visit\\IntroInLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Den B."
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
